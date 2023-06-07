@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    background-color: rgb(0, 0, 8);
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+
+h1 {
+    color: white;
+    font-size: 50px;
+
+}
+
+.monster {
+    float: right;
+}
